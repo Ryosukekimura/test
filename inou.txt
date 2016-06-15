@@ -1,0 +1,5 @@
+inou プロジェクト
+
+タイトル：Human Capture
+
+Microsoftが発売している距離センサのKinectを使うと，物体の3次元形状を取得することができる．
